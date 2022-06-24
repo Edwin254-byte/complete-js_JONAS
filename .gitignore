@@ -1,0 +1,4 @@
+# files and folders that not to be included in git
+node_modules
+dist
+.parcel-cache
